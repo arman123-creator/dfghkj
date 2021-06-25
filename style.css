@@ -1,0 +1,51 @@
+h1{
+    color : yellow
+}
+
+h2{
+
+color:red
+}
+
+h3{
+color : rgb(42, 9, 163)
+}
+
+.header{
+    color : green;
+    background-color :rgb(10, 12, 8);
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    background-color : yellow;
+    display:flex;
+justify-content : space-between;
+flex-wrap: wrap;
+}
+
+.camel{
+    background-color: khaki;
+    
+}
+
+.chameleon{
+    background-color: lawngreen;
+}
+
+.pigeon{
+    background-color: lightseagreen;
+}
+
+.bear{
+    background-color: palegoldenrod;
+}
+
+.panda{
+    background-color: beige;
+}
+
+.cicada{
+    background-color: chocolate;
+}
